@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using data and math. <br><br> From statistical theory to the development of efficient algorithms, I am <strong>passionate to discover new things </strong> and use them to create high quality solutions to data-driven decisions. Today, I'm a <strong>PhD researcher in Statistics and Data Science</strong> focused on algorithms for high dimensional data.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dionisioneto&theme=radical&mode=weekly" />
